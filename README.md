@@ -1,4 +1,4 @@
-# Eudiplozoon nipponicum genome
+# *Eudiplozoon nipponicum genome*
 *Eudiplozoon nipponicum* genome project - datasets
 
 ## Sequences
