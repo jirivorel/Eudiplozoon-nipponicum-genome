@@ -2,13 +2,13 @@
 *Eudiplozoon nipponicum* genome project - datasets
 
 ## Sequences
-mRNA transcripts, [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.mrna-transcripts.fa.gz)
+mRNA transcripts [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.mrna-transcripts.fa.gz)
 
-CDS transcripts, [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.cds-transcripts.fa.gz)
+CDS transcripts [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.cds-transcripts.fa.gz)
 
-Proteins, [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.proteins.fa.gz)
+Proteins [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.proteins.fa.gz)
 
-GFF3 annotation, [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.gff3.gz)
+Annotation [(GFF3)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.gff3.gz)
 
 ## Key Publication (Preprint)
 Vorel *et al*., 2023, **An insight into the functional genomics and species classification of *Eudiplozoon nipponicum* (Monogenea, Diplozoidae), a haematophagous parasite of the common carp *Cyprinus carpio*.** doi [10.21203/rs.3.rs-2679226/v1](https://www.researchsquare.com/article/rs-2679226/v1)
