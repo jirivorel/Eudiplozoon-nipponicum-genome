@@ -3,11 +3,17 @@
 
 ## Sequences
 Genome scaffolds, [(FASTA)]()
+
 Genome scaffolds (softmasked), [(FASTA)]()
+
 Genome scaffolds (hardmasked), [(FASTA)]()
+
 Complete genes, [(FASTA)]()
+
 mRNA transcripts, [(FASTA)]()
+
 CDS transcripts, [(FASTA)]()
+
 Proteins, [(FASTA)]()
 
 ## Key Publication (Preprint)
@@ -21,8 +27,11 @@ Vorel *et al*., 2021, ***Eudiplozoon nipponicum* (Monogenea, Diplozoidae) and it
 
 ## Useful Links
 [NCBI GenBank](https://www.ncbi.nlm.nih.gov/nuccore/JAQBSW000000000)
+
 [NCBI BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA914201/)
+
 [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/GCA_029291075.1)
+
 [Department of Botany and Zoology](http://botzool.sci.muni.cz/en)
 
 ## Contact
