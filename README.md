@@ -8,6 +8,8 @@ CDS transcripts [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-ge
 
 Proteins [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.proteins.fa.gz)
 
+## Annotation
+
 Annotation [(GFF3)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.gff3.gz)
 
 ## Key Publication (Preprint)
