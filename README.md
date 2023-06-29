@@ -13,7 +13,7 @@ Proteins [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/bl
 Annotation [(GFF3)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.gff3.gz)
 
 ## Key Publication
-Vorel *et al*., 2023, **An insight into the functional genomics and species classification of *Eudiplozoon nipponicum* (Monogenea, Diplozoidae), a haematophagous parasite of the common carp *Cyprinus carpio*.** doi [10.1186/s12864-023-09461-8](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09461-8))
+Vorel *et al*., 2023, **An insight into the functional genomics and species classification of *Eudiplozoon nipponicum* (Monogenea, Diplozoidae), a haematophagous parasite of the common carp *Cyprinus carpio*.** doi [10.1186/s12864-023-09461-8](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09461-8)
 
 ## Related Repository
 *Eudiplozoon nipponicum* transcriptome/secretome [project](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptome-secretome)
