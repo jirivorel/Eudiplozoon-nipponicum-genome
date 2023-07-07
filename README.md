@@ -8,6 +8,8 @@ CDS transcripts [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-ge
 
 Proteins [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.proteins.fa.gz)
 
+Genomic sequences (scaffolds, hardmasked, softmasked) can be downloaded from [(Disk Google)](https://drive.google.com/drive/folders/1ifIvtKB381hKqDlb7z87uC53VyoQ95g0?usp=sharing)
+
 ## Annotation
 
 Annotation [(GFF3)](https://github.com/jirivorel/Eudiplozoon-nipponicum-genome/blob/main/E_nip.gff3.gz)
